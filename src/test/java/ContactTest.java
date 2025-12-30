@@ -1,3 +1,4 @@
+import org.testng.annotations.Test;
 
 public class ContactTest {
 
@@ -6,4 +7,5 @@ public class ContactTest {
   public void con()
   {
     System.out.println("con executed");
+}
 }

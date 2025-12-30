@@ -1,3 +1,4 @@
+import org.testng.annotations.Test;
 
 public class Delete {
 
@@ -7,3 +8,4 @@ public class Delete {
   {
     System.out.println("del executed");
   }
+}
