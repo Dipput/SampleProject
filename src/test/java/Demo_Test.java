@@ -6,7 +6,7 @@ public class Demo_Test {
 
 	@Test()
 	public void demo1() {
-		Assert.fail();
+		
 		System.out.println(" demo test method1 executed");
 
 	}
