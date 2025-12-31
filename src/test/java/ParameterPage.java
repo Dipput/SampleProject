@@ -1,0 +1,21 @@
+import org.testng.annotations.Test;
+
+public class ParameterPage {
+
+	@Test
+	public void test()
+	{
+		String BROWSER = System.getProperty("browser");
+		String URL=System.getProperty("url");
+		String USERNAME=System.getProperty("username");
+		String PASSWORD=System.getProperty("password");
+		
+		
+		
+		
+		System.out.println(BROWSER);
+		System.out.println(URL);
+		System.out.println(USERNAME);
+		System.out.println(PASSWORD);
+	}
+}
