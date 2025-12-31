@@ -1,6 +1,7 @@
+package Parameter;
 import org.testng.annotations.Test;
 
-public class Opp {
+public class OppTest {
 
 	@Test(groups = "smoke")
 	

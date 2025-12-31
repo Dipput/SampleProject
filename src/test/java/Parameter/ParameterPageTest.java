@@ -1,6 +1,7 @@
+package Parameter;
 import org.testng.annotations.Test;
 
-public class ParameterPage {
+public class ParameterPageTest {
 
 	@Test(groups = "smoke")
 	public void test()
