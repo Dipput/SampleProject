@@ -55,7 +55,7 @@
         <version>3.5.4</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>BatchAll.xml</suiteXmlFile>
+            <suiteXmlFile>group.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
